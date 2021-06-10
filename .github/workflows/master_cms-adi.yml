@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'cms-adi'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_b12e241562a047d68a3ba4f71b5a4bb9 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_815b5958068a4b51aaed13d445e81008 }}
